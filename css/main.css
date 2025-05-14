@@ -20,6 +20,6 @@ body {
   .Pictures img {
     width: 500px;
     height: auto;
-    border-radius: 10px;
+    border-radius: 30px;
     display: block;
     max-width: 100%;}
